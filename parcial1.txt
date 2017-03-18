@@ -1,1 +1,2 @@
 Proceso numeros_primos
+Definir ge, nu,c Como Entero;

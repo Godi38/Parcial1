@@ -4,3 +4,4 @@ Proceso numeros_primos
 	Mientras ge <= 100 Hacer
 		nu<- 1;
 		c<- 0;
+		Mientras nu <= ge Hacer

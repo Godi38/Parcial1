@@ -9,3 +9,7 @@ Proceso numeros_primos
 				c<- c+1;
 			FinSi
 			nu<- nu+1;
+		FinMientras
+		Si c=2 Entonces
+			Escribir ge;
+		FinSi

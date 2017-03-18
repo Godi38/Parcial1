@@ -1,3 +1,4 @@
 Proceso numeros_primos
 	Definir ge, nu,c Como Entero;
 	ge<- 1;
+	Mientras ge <= 100 Hacer

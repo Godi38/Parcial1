@@ -13,3 +13,5 @@ Proceso numeros_primos
 		Si c=2 Entonces
 			Escribir ge;
 		FinSi
+		ge<- ge+1;
+	FinMientras

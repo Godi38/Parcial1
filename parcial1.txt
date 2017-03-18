@@ -15,3 +15,4 @@ Proceso numeros_primos
 		FinSi
 		ge<- ge+1;
 	FinMientras
+FinProceso
